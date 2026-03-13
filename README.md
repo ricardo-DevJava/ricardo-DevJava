@@ -1,8 +1,8 @@
-## English
-
 # Java Backend Developer / Desarrollador Backend Java
 
-## Technologies:
+## English
+
+### Technologies
 
 - Java legacy
 - Jakarta EE
@@ -10,16 +10,15 @@
 - REST APIs
 - Angular
     
-## Main Projects:
+### Main Projects
 
 - Spring Boot WebSocket Broker
 - Angular WebSocket Chat
 - JSF3 + PrimeFaces CRUD
     
-
 ## Español
 
-## Tecnologías:
+### Tecnologías
 
 - Java legacy
 - Jakarta EE
@@ -27,7 +26,7 @@
 - REST APIs
 - Angular
 
-## Proyectos principales:
+### Proyectos principales
 
 - Spring Boot WebSocket Broker
 - Angular WebSocket Chat
