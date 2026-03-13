@@ -1,6 +1,6 @@
-# Java Back-end Developer
+# Desarrollador Back-end Java
 
-## Technologies:
+## Tecnologias:
 
     - Java legacy
     - Jakarta EE
@@ -8,7 +8,7 @@
     - REST APIs
     - Angular
 
-## Main Projects:
+## Proyectos principales:
 
     - Spring Boot WebSocket Broker
     - Angular WebSocket Chat
